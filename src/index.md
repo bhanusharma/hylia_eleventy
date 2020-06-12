@@ -1,8 +1,12 @@
 ---
 layout: home
-title: maker stories
+title: A simple starter kit for Eleventy
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'stories of brands and products we love: ''
+metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
+socialImage: ''
 ---
-<div class="js-maker-embed" data-maker-embed-id="65698" data-maker-type="socialstory" style="height: auto; width: 100%;" data-no-attribution="true" data-no-title="true" data-no-cover="false" data-no-share="true" data-no-tags="true" data-story-nav="false" data-maker-share-story="false" data-pass-params="false" data-experiments="false" data-theme-id="22"></div><script async src="https://app.maker.co/assets/social_stories/65698/embeds/embed_base.js"></script>
+
+Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+
+Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
